@@ -1,0 +1,2 @@
+Download DB Browser for SQLite
+(The Database file is in the json folder in the DiscordBot folder, called botdb)
